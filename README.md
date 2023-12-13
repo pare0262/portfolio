@@ -7,7 +7,7 @@ Explore my latest web portfolio developed during the Advanced CSS and Bootstrap 
 This was difficult. For me honestly everything was challenging, even learning this things I am still struggling depply with it, I hope that with more practice I get better and better, but from using bootstrap to organize everything and make it looks like the UX assignment.
 
 ## Lessons Learned
-I learned Bootstrap.
+I learned Bootstrap, a more advance CSS stuff, things about images and many stuff that make developing a lot easier. I hope I can get better at it.
 
 ## Frameworks and Libraries
 - [Bootstrap](https://getbootstrap.com/)

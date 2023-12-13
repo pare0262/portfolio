@@ -1,5 +1,8 @@
 :root {
   --bs-primary-color: rgba(23, 23, 23, 0);
   --bs-secondary-bg-rgb: rgb(217,230,245);
+  --text-button-color: white;
+  --text-titles-color: #111111;
+  --text-p-color: black;
 
 }
